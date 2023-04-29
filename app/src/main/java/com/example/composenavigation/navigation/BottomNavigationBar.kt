@@ -16,7 +16,6 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import androidx.navigation.compose.currentBackStackEntryAsState
 import com.example.composenavigation.navigation.Screen
-import com.example.dgkala.navigation.BottomNaviItem
 import com.example.composenavigation.R
 import com.example.composenavigation.ui.theme.deSelectedBottomBar
 import com.example.composenavigation.ui.theme.irsans

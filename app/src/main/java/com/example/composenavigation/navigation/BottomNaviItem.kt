@@ -1,4 +1,4 @@
-package com.example.dgkala.navigation
+package com.example.composenavigation.navigation
 
 import androidx.compose.ui.graphics.painter.Painter
 
