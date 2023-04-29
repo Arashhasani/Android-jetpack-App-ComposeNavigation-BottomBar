@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compose Navigation</string>
+    <string name="category">دسته بندی</string>
+    <string name="profile">پروفایل</string>
+    <string name="home">خانه</string>
+    <string name="basket">سبد خرید</string>
+</resources>
